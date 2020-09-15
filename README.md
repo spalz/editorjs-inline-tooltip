@@ -1,0 +1,1 @@
+# EditorJS inline tooltip Tool
